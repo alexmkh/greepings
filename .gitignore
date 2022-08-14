@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+#.gitignore
+.idea/.gitignore
+.idea/git-learning.iml
+.idea/inspectionProfiles
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+pycache___/
+scratch.py
+venv/
+
